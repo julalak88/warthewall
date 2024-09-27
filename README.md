@@ -1,4 +1,8 @@
 # warthewall
+# Feature
+- Login with Gmail
+- Google Sheet
+- Social Shared
 ![warthewall drawio](https://github.com/user-attachments/assets/dd9f3c6c-1cd7-4339-b633-08e0661421ad)
 
 
